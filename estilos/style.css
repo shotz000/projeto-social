@@ -26,8 +26,16 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
-    width: 311px;
+    height: 951px;
+    width: 520px;
     background-color: blue;
-    background:url('../imagens/frame-iphone.png') no-repeat
+    background:url('../imagens/Daco_5347290.png');
+    
+}
+iframe#tela{
+    position: relative;
+    top: 89px;
+    left: 74px;
+    width: 371px;
+    height: 733px;
 }
